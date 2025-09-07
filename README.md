@@ -1,2 +1,2 @@
-# My_Portfolio
-This is about me.
+# AboutMe
+Info about me
